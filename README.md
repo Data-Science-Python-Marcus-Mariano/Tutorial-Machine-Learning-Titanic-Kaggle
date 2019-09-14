@@ -17,6 +17,7 @@ Model: __primeiro_modelo.csv__ from: **Tutorial de Machine Learning #2 - Como Cr
 
 **Tutorial de Machine Learning #4 - Como Fazer Validação Cruzada com Scikit-learn: [Video](https://www.youtube.com/watch?v=LxvFuLDXUdk&list=PLwnip85KhroW8Q1JSNbgl06iNPeC0SDkx&index=4)**
 
+**Tutorial de Machine Learning #5 - Adicionando Novas Variáveis ao Modelo: [Video](https://www.youtube.com/watch?v=4I7YMPxps1k&list=PLwnip85KhroW8Q1JSNbgl06iNPeC0SDkx&index=5)**
 
 - Builtins
     -
@@ -28,6 +29,7 @@ Model: __primeiro_modelo.csv__ from: **Tutorial de Machine Learning #2 - Como Cr
         - RandomForestClassifier
         - train_test_split
         - KFold
+        - RepeatedKFold
 
 
 
