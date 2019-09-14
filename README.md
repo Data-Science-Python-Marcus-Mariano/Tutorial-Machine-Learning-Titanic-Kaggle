@@ -15,6 +15,9 @@ Model: __primeiro_modelo.csv__ from: **Tutorial de Machine Learning #2 - Como Cr
 
 **Tutorial de Machine Learning #3 - Como Criar uma Validação Consistente para seu Modelo: [Video](https://www.youtube.com/watch?v=K86voC1gRIk&list=PLwnip85KhroW8Q1JSNbgl06iNPeC0SDkx&index=3)**
 
+**Tutorial de Machine Learning #4 - Como Fazer Validação Cruzada com Scikit-learn: [Video](https://www.youtube.com/watch?v=LxvFuLDXUdk&list=PLwnip85KhroW8Q1JSNbgl06iNPeC0SDkx&index=4)**
+
+
 - Builtins
     -
 
@@ -24,6 +27,7 @@ Model: __primeiro_modelo.csv__ from: **Tutorial de Machine Learning #2 - Como Cr
     - sklearn
         - RandomForestClassifier
         - train_test_split
+        - KFold
 
 
 
